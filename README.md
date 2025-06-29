@@ -37,14 +37,9 @@ Hi there! I'm *Saipavan Jasti*, a passionate developer, AI enthusiast, and cloud
 ---
 
 ## 📫 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/saipavanjasti/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+
+- 📧 Email: [saipavanj14@gmail.com](mailto:saipavanj14@gmail.com)  
+- 📞 Phone: +91 8125668685
 
 ---
 
